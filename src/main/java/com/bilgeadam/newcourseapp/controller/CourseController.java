@@ -3,7 +3,6 @@ package com.bilgeadam.newcourseapp.controller;
 import com.bilgeadam.newcourseapp.entity.Course;
 import com.bilgeadam.newcourseapp.exception.CourseNotFound;
 import com.bilgeadam.newcourseapp.repository.CourseRepository;
-import io.swagger.v3.oas.annotations.parameters.RequestBody;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
